@@ -4,6 +4,10 @@
 
 Este projeto consiste na simulação de uma rede corporativa desenvolvida no Cisco Packet Tracer como atividade prática de conclusão de curso.
 
+Site da instituição:
+https://www.hrbrcursos.com/
+
+
 A proposta foi criar uma infraestrutura segmentada por setores, utilizando VLANs e serviços de rede essenciais para o funcionamento de um ambiente organizacional.
 
 ---
@@ -60,6 +64,7 @@ A comunicação entre switches foi realizada utilizando portas configuradas como
 Leandro  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Interesse em Redes, Infraestrutura e Automação
+
 
 
 <img width="1309" height="752" alt="ProjetoFinalCursoCisco" src="https://github.com/user-attachments/assets/c4af4596-0471-44a4-9080-ac04e34e6d94" />
